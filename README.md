@@ -6,6 +6,8 @@
 
 🚀 My GitHub is where I share what I’ve been building, learning, and experimenting with — a mix of serious problem-solving and creative fun.
 
+Skills: C# | HTML | CSS | Python | Swift | Java 
+
 ---
 
 ## 🌟 Featured Projects
