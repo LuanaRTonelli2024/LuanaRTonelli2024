@@ -2,7 +2,8 @@
 
 💻 Tech explorer mixing **system analysis experience** with new adventures in **programming**.  
 
-🎓 Currently studying Computer Science Programming at LaSalle College, Montreal.  
+🎓 Currently studying Computer Science Programming at LaSalle College, Montreal.
+
 🚀 My GitHub is where I share what I’ve been building, learning, and experimenting with — a mix of serious problem-solving and creative fun.
 
 ---
