@@ -47,6 +47,5 @@ Together, they make me someone who can **analyze, build, and improve IT solution
 ---
 
 ## 📫 Let’s connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/luanartonelli)  
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/LuanarTonelli2024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/luanartonelli)  [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/LuanarTonelli2024)
 
