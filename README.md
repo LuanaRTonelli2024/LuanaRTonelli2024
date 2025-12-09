@@ -46,6 +46,12 @@
 
 ---
 
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanartonelli2024&layout=compact)
+
+
+---
+
 ## 🎯 Why it matters
 My background as a **System Analyst** gave me the structured side: requirements, ERP systems, troubleshooting.  
 College projects gave me the creative side: building apps, designing interfaces, experimenting with tech.  
