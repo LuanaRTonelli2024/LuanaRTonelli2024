@@ -4,11 +4,7 @@
 
 🎓 Currently studying Computer Science Programming at LaSalle College, Montreal.
 
-🚀 My GitHub is where I share what I’ve been building, learning, and experimenting with — a mix of serious problem-solving and creative fun.
-
-Skills: C# | HTML | CSS | Python | Swift | Java 
-
----
+🚀 My GitHub is where I share what I’ve been building, learning, and experimenting with — where I turn challenges into code and ideas into interfaces.
 
 ## 🌟 Featured Projects
 
