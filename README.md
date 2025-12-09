@@ -15,7 +15,9 @@
 - QR code generation & label printing (work in progress)  
 - **What I learned:** SwiftUI, Firebase Firestore, CoreLocation, authentication flows  
 
-👉 [Check it out here](https://github.com/LuanarTonelli2024/security-devices-assets-management)
+👉 Explore the repo: https://github.com/LuanaRTonelli2024/Security-Devices-Asset-Mgmt
+
+
 
 ---
 
@@ -26,15 +28,21 @@
 - Technicians confirm services & send payment links  
 - **What I learned:** React, Node.js/Express, user stories, iterative development  
 
-👉 [Explore the repo](https://github.com/LuanarTonelli2024/TNapoleDetail2)
+👉 Explore the repo: https://github.com/LuanaRTonelli2024/TNapoleDetail2
 
 ---
 
 ## 🛠 Tech Playground
-- **Frontend:** React, SwiftUI, HTML/CSS  
-- **Backend:** ASP.NET Core, Node.js/Express  
-- **Database:** SQL Server, Firebase  
-- **Extras:** GitHub workflows, troubleshooting, UI/UX experiments  
+
+**Turned math into algorithms**  → *C# | Java | Python*
+
+**Built apps that talk to databases**  → *SQL | Firebase | MongoDB*
+
+**Made websites come alive**  → *HTML | CSS | JavaScript | React*
+
+**Learned to tame networks & operating systems**  → *Operating Systems | Computer Architecture*
+
+**Connected analysis with code**  → *Information System Analysis | ERP experience*
 
 ---
 
