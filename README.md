@@ -47,7 +47,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanartonelli2024&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanartonelli2024&layout=normal)
 
 
 ---
