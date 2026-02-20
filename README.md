@@ -42,7 +42,7 @@ Together, they make me someone who can **analyze, build, and improve IT solution
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luanartonelli2024&show_icons=true&include_all_commits=true&count_private=true&theme=github-light) 
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanartonelli2024&layout=normal&langs_count=30&theme=github-light&card_width=500&hide_progress=true)
@@ -50,6 +50,14 @@ Together, they make me someone who can **analyze, build, and improve IT solution
 ---
 
 ### 📫 Let’s connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/luanartonelli)  
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/LuanarTonelli2024)
+<p>
+  <a href="https://www.linkedin.com/in/luanartonelli" target="_blank">
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/LuanarTonelli2024" target="_blank">
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  </a>
+</p>
+
 
