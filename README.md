@@ -6,35 +6,48 @@
 
 🚀 My GitHub is where I share what I’ve been building, learning, and experimenting with — where I turn challenges into code and ideas into interfaces.
 
+---
 
+### 🛠 Tech Stack
 
-## 🛠 Tech Playground
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 
-**Turned math into algorithms**  → *C# | Java | Python*
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
-**Built apps that talk to databases**  → *SQL | Firebase | MongoDB*
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
-**Made websites come alive**  → *HTML | CSS | JavaScript | React*
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
 
-**Learned to tame networks & operating systems**  → *Operating Systems | Computer Architecture*
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 
-**Connected analysis with code**  → *Information System Analysis | ERP experience*
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luanartonelli2024&show_icons=true&include_all_commits=true&count_private=true&theme=github-light)
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanartonelli2024&layout=compact&langs_count=30&theme=github-light)
+<br/><br/>
 
+---
 
-## 🎯 Why it matters
+### 🎯 Why it matters
 My background as a **System Analyst** gave me the structured side: requirements, ERP systems, troubleshooting.  
 College projects gave me the creative side: building apps, designing interfaces, experimenting with tech.  
 Together, they make me someone who can **analyze, build, and improve IT solutions** — while having fun along the way.
 
+---
 
-## 📫 Let’s connect
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luanartonelli2024&show_icons=true&include_all_commits=true&count_private=true&theme=github-light)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanartonelli2024&layout=compact&langs_count=30&theme=github-light)
+
+---
+
+### 📫 Let’s connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/luanartonelli)  
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/LuanarTonelli2024)
 
