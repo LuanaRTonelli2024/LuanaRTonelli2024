@@ -10,11 +10,13 @@
 
 ### 🛠 Tech Stack
 
+
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
@@ -40,10 +42,10 @@ Together, they make me someone who can **analyze, build, and improve IT solution
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luanartonelli2024&show_icons=true&include_all_commits=true&count_private=true&theme=github-light)
+# 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luanartonelli2024&show_icons=true&include_all_commits=true&count_private=true&theme=github-light) 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanartonelli2024&layout=compact&langs_count=30&theme=github-light)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanartonelli2024&layout=normal&langs_count=30&theme=github-light&card_width=500&hide_progress=true)
 
 ---
 
