@@ -6,31 +6,6 @@
 
 🚀 My GitHub is where I share what I’ve been building, learning, and experimenting with — where I turn challenges into code and ideas into interfaces.
 
-## 🌟 Featured Projects
-
-### 🔐 Security Devices Asset Management (iOS)
-*Helping technicians manage security cameras faster and smarter.*  
-- Secure login & camera registration  
-- GPS auto-capture (coming soon!)  
-- QR code generation & label printing (work in progress)  
-- **What I learned:** SwiftUI, Firebase Firestore, CoreLocation, authentication flows  
-
-👉 Explore the repo: https://github.com/LuanaRTonelli2024/Security-Devices-Asset-Mgmt
-
-
-
----
-
-### 🚗 TNapole Detail Car (React)
-*Because even cars deserve a stylish booking system.*  
-- Customers can book, cancel, and track services  
-- Admins manage schedules, employees, and technicians  
-- Technicians confirm services & send payment links  
-- **What I learned:** React, Node.js/Express, user stories, iterative development  
-
-👉 Explore the repo: https://github.com/LuanaRTonelli2024/TNapoleDetail2
-
----
 
 ## 🛠 Tech Playground
 
@@ -47,8 +22,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanartonelli2024&layout=normal)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luanartonelli2024&show_icons=true&include_all_commits=true&count_private=true&theme=github-light)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanartonelli2024&layout=compact&langs_count=30&theme=github-light)
 
 ---
 
